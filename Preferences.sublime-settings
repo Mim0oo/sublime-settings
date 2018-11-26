@@ -1,0 +1,22 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"detect_indentation": false,
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"vendor"
+	],
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Laravel Blade Highlighter",
+		"Vintage"
+	],
+	"tab_size": 4,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"translate_tabs_to_spaces": true
+}
